@@ -3,21 +3,21 @@
   "id": "1",
   "name": "general/img1.png", 
   "title": "خلفية الكعبة المشرفة", 
-  "category": "islamic",
+  "category": "general",
   "createdAt": 1711500000000
 },
   {
   "id": "2",
   "name": "general/img2.png", 
   "title": "خلفية الكعبة المشرفة", 
-  "category": "islamic",
+  "category": "general",
   "createdAt": 1711500000000
 },
   {
   "id": "3",
   "name": "general/img3.png", 
   "title": "خلفية الكعبة المشرفة", 
-  "category": "islamic",
+  "category": "general",
   "createdAt": 1711500000000
 }
 ]
