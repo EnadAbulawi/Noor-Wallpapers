@@ -111,25 +111,26 @@
     "category": "islamic",
     "createdAt": 1711500000000
   },
-  {
+   {
     "id": "17",
     "name": "palestine/img1.png",
-    "title": "اللهم رضاك والجنة",
-    "category": "islamic",
+    "title": "فلسطين في القلب",
+    "category": "palestine",
     "createdAt": 1711500000000
   },
   {
     "id": "18",
     "name": "palestine/img2.png",
-    "title": "اللهم رضاك والجنة",
-    "category": "islamic",
+    "title": "القدس لنا",
+    "category": "palestine",
     "createdAt": 1711500000000
   },
   {
     "id": "19",
     "name": "palestine/img3.png",
-    "title": "اللهم رضاك والجنة",
-    "category": "islamic",
+    "title": "صمود"،
+    "category": "palestine",
     "createdAt": 1711500000000
   }
+
 ]
